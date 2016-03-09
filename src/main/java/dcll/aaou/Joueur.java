@@ -35,4 +35,5 @@ public class Joueur {
     void addFrame(String s){
         listFrame.add(s);
     }
+
 }
