@@ -14,7 +14,7 @@ public class Jeu {
         this.listJoueur = listJoueur;
     }
 
-    void Jouer(){
+    void jouer(){
         for(int i = 0; i < Frame ; ++i){
             for(Joueur j : listJoueur) {
                 String score = "A";
