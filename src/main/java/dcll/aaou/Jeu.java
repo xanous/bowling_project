@@ -7,7 +7,6 @@ import java.util.Scanner;
  * Created by AAnass on 09/03/2016.
  */
 public class Jeu {
-
     static int Frame = 10;
     List<Joueur> listJoueur;
 
